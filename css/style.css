@@ -564,7 +564,7 @@ body {
     vertical-align: middle;
 
 }
-.footer__social a img{
+.footer__social a svg{
     margin-bottom: auto;
     margin-top: 6px;
     margin-left: auto;
